@@ -1,0 +1,9 @@
+>>> Warning 216 "PIZ-Dual-New.c" Line 188(1,2): Interrupts disabled during call to prevent re-entrancy:  (@delay_ms1)
+>>> Warning 216 "PIZ-Dual-New.c" Line 188(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_send_nibble)
+>>> Warning 216 "PIZ-Dual-New.c" Line 188(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_send_byte)
+>>> Warning 216 "PIZ-Dual-New.c" Line 188(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_putc)
+>>> Warning 216 "PIZ-Dual-New.c" Line 188(1,2): Interrupts disabled during call to prevent re-entrancy:  (lcd_gotoxy)
+>>> Warning 216 "PIZ-Dual-New.c" Line 188(1,2): Interrupts disabled during call to prevent re-entrancy:  (@PSTRINGC_611)
+      Memory usage:   ROM=87%      RAM=17% - 31%
+      0 Errors,  6 Warnings.
+Build Successful.
